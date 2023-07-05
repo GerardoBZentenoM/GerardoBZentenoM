@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @GerardoBZentenoM
-- 👀 I’m interested in Python, Cybersecurity, Flutter
-- 🌱 I’m currently learning Ethical Hacking
-- 💞️ I’m looking to collaborate on Open Source
+- 👋 Hi, I’m @GerardoBZentenoM a Python developer.
+- 👀 My interests are about Python, Cybersecurity, DevOps & Flutter.
+- 🌱 I’m currently learning Bug Bounty Hunter in HTB.
+- 💞️ I'm looking to collaborate in Open Source.
 - 📫 How to reach me brallanzenteno@gmail.com
 
 <!---
