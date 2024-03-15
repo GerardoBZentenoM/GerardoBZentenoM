@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GerardoBZentenoM a Python developer.
-- 👀 My interests are about Python, Cybersecurity, DevOps & Flutter.
-- 🌱 I’m currently learning Bug Bounty Hunter in HTB.
+- 👀 My interests are about Python, Cybersecurity, DevOps, Angular & Flutter.
+- 🌱 I’m currently learning Bug Bounty Hunter in HTB & Angular.
 - 💞️ I'm looking to collaborate in Open Source.
 - 📫 How to reach me brallanzenteno@gmail.com
 
